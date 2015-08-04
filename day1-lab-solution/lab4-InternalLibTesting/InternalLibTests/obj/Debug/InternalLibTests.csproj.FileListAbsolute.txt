@@ -1,0 +1,14 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLibTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLibTests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab4-InternalLibTesting\InternalLibTests\obj\Debug\InternalLibTests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab4-InternalLibTesting\InternalLibTests\obj\Debug\InternalLibTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab4-InternalLibTesting\InternalLibTests\obj\Debug\InternalLibTests.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLibTests.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLibTests.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLib.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab4-InternalLibTesting\InternalLibTests\bin\Debug\InternalLib.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab4-InternalLibTesting\InternalLibTests\obj\Debug\InternalLibTests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab4-InternalLibTesting\InternalLibTests\obj\Debug\InternalLibTests.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab4-InternalLibTesting\InternalLibTests\obj\Debug\InternalLibTests.pdb

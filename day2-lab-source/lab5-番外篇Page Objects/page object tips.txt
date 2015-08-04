@@ -1,0 +1,92 @@
+關鍵：描述怎麼與頁面互動，把頁面當做一個 object 來互動
+
+指定多瀏覽器：
+        public GoogleSearchTest()
+        {
+            SeleniumWebDriver.Bootstrap
+                (SeleniumWebDriver.Browser.Chrome
+                , SeleniumWebDriver.Browser.Firefox);
+            
+        }
+
+1. 繼承FluentTest
+public class GoogleSearchTest : FluentTest
+
+2. //到google search首頁
+定義一個 google search首頁的物件，並把this傳給它。（this在這邊指的就是FluentTest）
+var googleSearchPage = new GoogleSearchPage(this);
+
+3. 在new GoogleSearchPage(this)，產生新的類型
+建立新檔案到 PageObjects\GoogleSearchPage.cs
+產生建構式
+
+4. 將GoogleSearchPage class繼承 PageObject<GoogleSearchPage>
+
+5. 修改GoogleSearchPage的建構式, 使其呼叫父類的建構式，傳入FluentTest。並定義這個 page object 的 Url 為何。
+
+        public GoogleSearchPage(FluentTest test)
+            : base(test)
+        {
+            Url = "https://www.google.com";
+        }
+
+6. 回到測試程式中，//到google search首頁
+用說話的方式來描述scearnio就是：
+            var googleSearchPage = new GoogleSearchPage(this);
+            googleSearchPage.Go();
+
+7. //搜尋skilltree
+用人話來描述與GoogleSearchPage頁面的互動，就是：
+            var keywords = "skilltree";
+            googleSearchPage.Search(keywords);
+
+8. 在.Search(keywords);產生Search方法
+
+9. 先繼續把測試程式的scenario描述完
+當在搜尋頁面搜尋完關鍵字後，應該被導到「搜尋結果頁」。
+一樣，定義一個搜尋結果頁的物件，並將this傳給它。
+var googleSearchResultsPage = new GoogleSearchResultsPage(this);
+
+10. 產生完GoogleSearchResultsPage類別後，修改GoogleSearchResultsPage類別，繼承自 PageObject<GoogleSearchResultsPage>
+public class GoogleSearchResultsPage : PageObject<GoogleSearchResultsPage>
+
+11.修改其建構式，一樣使用PageObject<T>的建構式。差異只有搜尋結果頁並不會被直接呼叫Go()，且Url不固定，所以不需設定Url。
+
+        public GoogleSearchResultsPage(FluentTest test)
+            : base(test)
+        {
+        }
+
+12.回到測試程式，剩下最後一步：//搜尋結果第一頁應存在"http://skilltree.my/"的連結
+定義期望結果的link，然後期望在搜尋結果頁，應該找到這個link
+            var expectedLink = "http://skilltree.my/";
+            googleSearchResultsPage.FindResults(expectedLink);
+
+13. 針對googleSearchResultsPage.FindResults() 產生方法
+到這邊，測試程式的 scenario 就都描述完畢，且建置可以通過。只剩下兩個方法沒有實作內容：
+(1) googleSearchPage.Search(keywords);
+(2) googleSearchResultsPage.FindResults(expectedLink);
+
+--
+14. 完成GoogleSearchPage.Search() 的方法內容。
+對搜尋頁來說，搜尋這個行為代表：
+(1) 在搜尋框上
+(2) 輸入搜尋的關鍵字
+(3) 按下查詢/Enter
+
+I.Enter(keywords)
+                .In(keywordContainer)
+                .Press("{ENTER}");
+                //.Append(OpenQA.Selenium.Keys.Enter).To(keywordContainer); //for multi-browser
+
+private const string keywordContainer = "input[name='q']";
+
+15. 完成GoogleSearchResultsPage.FindResults()
+對搜尋結果頁驗證應該存在某個結果，驗證使用Assert，存在結果使用Exists
+            I.Assert
+                .Exists(string.Format(linkContainer, expectedLink));
+
+private const string linkContainer = "a[href='{0}']";
+
+
+

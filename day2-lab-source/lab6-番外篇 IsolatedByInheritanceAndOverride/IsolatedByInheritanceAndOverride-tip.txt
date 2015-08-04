@@ -1,0 +1,95 @@
+1.把 private List<Order> GetOrders() 改成 protected virtual，
+目的是為了供測試專案中 stub class 覆寫。
+protected virtual List<Order> GetOrders()
+
+2.在測試專案中，新增一個 stub class 繼承自 OrderService 。覆寫其 GetOrders() ，並擴充一個 SetOrders(orders) 方法
+目的是為了供測試程式可以注入「當呼叫 GetOrders() 時回傳的值」。同時也是去除對File I/O的dependency，因為原本需要與csv檔案以及StreamReader類別耦合。
+
+internal class StubOrderService : OrderService
+{
+    private List<Order> _orders= new List<Order>();
+ 
+    // only for test project to set the return values
+    internal void SetOrders(List<Order> orders)
+    {
+        this._orders = orders;
+    }
+ 
+    // return the stub values, isolated the File I/O of parsing csv file
+    protected override List<Order> GetOrders()
+    {
+        return this._orders;
+    }
+}
+
+3.增加一個測試案例：若訂單有3張，其中2張是 Book 的訂單，應新增兩筆資料到 BookDao。
+            // hard to isolate dependency to unit test
+            var target = new StubOrderService();
+
+            var orders = new List<Order>
+            {
+                new Order{ Type="Book", Price = 100, ProductName = "91's book"},
+                new Order{ Type="CD", Price = 200, ProductName = "91's CD"},
+                new Order{ Type="Book", Price = 300, ProductName = "POP book"},
+            };
+
+            //模擬csv內資料parse完的結果注入，當作GetOrders()的回傳內容
+            target.SetOrders(orders);
+
+            //act
+            target.SyncBookOrders();
+
+4.把 var bookDao = new BookDao(); 擷取方法後，透過 GetBookDao() 取得 BookDao 的 instance 。        
+
+        private BookDao GetBookDao()
+        {
+            var bookDao = new BookDao();
+            return bookDao;
+        }
+
+5.把BookDao抽象為介面，定義一個IBookDao，並將BookDao實作IBookDao。
+public interface IBookDao{}
+
+public class BookDao : IBookDao{}
+
+6.在bookDao.Insert(order);的Insert上，產生方法。並將BookDao的Insert()改為public
+    public interface IBookDao
+    {
+        void Insert(Order order);
+    }
+
+    public class BookDao : IBookDao
+    {
+        public void Insert(Order order)
+        {
+            // directly depend on some web service
+            var client = new HttpClient();
+            var response = client.PostAsync<Order>("http://api.joey.io/Order", order, new JsonMediaTypeFormatter()).Result;
+
+            response.EnsureSuccessStatusCode();
+
+        }
+    }
+
+7. 接著跟步驟1類似，將 private IBookDao GetBookDao() 改為 protected virtual, 因為要讓測試程式進行注入
+protected virtual IBookDao GetBookDao()
+
+8. 跟步驟2類似，將測試專案中的StubOrderService，override GetBookDao()，並開放一個SetBookDao()供測試程式注入
+
+        internal void SetBookDao(IBookDao bookDao)
+        {
+            this._bookDao = bookDao;
+        }
+
+        protected override IBookDao GetBookDao()
+        {
+            return this._bookDao;
+        }
+
+9. 在測試程式中，要驗證三張訂單有兩張是book，應該要與BookDao互動兩次的邏輯，就是透過mock。使用 NSub 建立 mock,透過SetBookDao()注入，並進行驗證被呼叫次數。
+
+            var mockBookDao = Substitute.For<IBookDao>();
+            target.SetBookDao(mockBookDao);
+
+驗證呼叫次數應為2次，且傳入參數的Type應為Book：
+mockBookDao.Received(2).Insert(Arg.Is<Order>(x => x.Type == "Book"));

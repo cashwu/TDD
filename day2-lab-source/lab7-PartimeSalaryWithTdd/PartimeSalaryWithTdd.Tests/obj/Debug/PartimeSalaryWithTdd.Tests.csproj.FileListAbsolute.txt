@@ -1,0 +1,14 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\obj\Debug\PartimeSalaryWithTdd.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\obj\Debug\PartimeSalaryWithTdd.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\obj\Debug\PartimeSalaryWithTdd.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\bin\Debug\PartimeSalaryWithTdd.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\obj\Debug\PartimeSalaryWithTdd.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\obj\Debug\PartimeSalaryWithTdd.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd.Tests\obj\Debug\PartimeSalaryWithTdd.Tests.pdb

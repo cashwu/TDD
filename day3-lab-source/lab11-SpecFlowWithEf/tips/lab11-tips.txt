@@ -1,0 +1,139 @@
+使用 Specflow 搭配 Entity Framework 來做資料的初始化跟清除
+
+1. 針對測試專案中的OrderQuery.Feature 產生 Step Definitions
+
+2. 宣告兩個 private field，分別為 target 與 dbContext
+		private OrderService target;
+        private NorthwindEntitiesInTest dbContext;
+		
+3. 在 BeforeScenario 初始化 target, 並使用 dbContext 清除測試程式新增的資料
+        [BeforeScenario]
+        public void BeforeScenario()
+        {
+            this.target = new OrderService();
+            using (dbContext = new NorthwindEntitiesInTest())
+            {
+                dbContext.Database.ExecuteSqlCommand("Delete [Orders] Where CustomerID IN ('Joey','JoeyTest')");
+                dbContext.Database.ExecuteSqlCommand("Delete [Customers] Where CustomerID IN('Joey','JoeyTest')");
+            }
+        }
+		
+4. 在 AfterScenario 使用 dbContext 清除測試程式新增的資料
+        [AfterScenario]
+        public void AfterScenario()
+        {
+            using (dbContext = new NorthwindEntitiesInTest())
+            {
+                dbContext.Database.ExecuteSqlCommand("Delete [Orders] Where CustomerID IN ('Joey','JoeyTest')");
+                dbContext.Database.ExecuteSqlCommand("Delete [Customers] Where CustomerID IN('Joey','JoeyTest')");
+            }
+        }
+
+5. 針對 Given 的 Step [Given(@"查詢條件為")]，使用 Specflow 的 extension method 來取得自訂型別：OrderQueryCondition
+該 extension method 要 using namespace: using TechTalk.SpecFlow.Assist;
+        [Given(@"查詢條件為")]
+        public void Given查詢條件為(Table table)
+        {
+            var condition = table.CreateInstance<OrderQueryCondition>();
+            ScenarioContext.Current.Set<OrderQueryCondition>(condition);
+
+        }
+
+透過 table.CreateInstance<T>() 可以將 scenario 上的 table 取得單筆的強型別物件
+
+6. 針對 Given 的 Step [Given(@"預計Customers資料應有")]，新增測試資料到 Customers table 。
+這邊使用另外一個 extension Method: table.CreateSet<T>(); 則會將 scenario 上的 table 取得強型別的集合 IEnumerable<T>
+當把 scenario 上的 table 轉成 edmx 的 model 型別集合後，透過 foreach 與 dbContext，把 scenario 上面 table 的資料，新增到 dbContext 的 Customers 裡面。
+
+        [Given(@"預計Customers資料應有")]
+        public void Given預計Customers資料應有(Table table)
+        {
+            var customers = table.CreateSet<SpecFlowWithEf.Tests.ModelInTest.Customers>();
+
+            using (dbContext = new NorthwindEntitiesInTest())
+            {
+                foreach (var customer in customers)
+                {
+                    dbContext.Customers.Add(customer);
+                }
+                dbContext.SaveChanges();
+            }
+        }
+
+7. 針對 Given 的 Step [Given(@"預計Orders資料應有")]，新增測試資料到 Orders table。
+同上一步，只是這次針對的是 Orders 的資料。
+        [Given(@"預計Orders資料應有")]
+        public void Given預計Orders資料應有(Table table)
+        {
+            var orders = table.CreateSet<SpecFlowWithEf.Tests.ModelInTest.Orders>();
+
+            using (dbContext = new NorthwindEntitiesInTest())
+            {
+                foreach (var order in orders)
+                {
+                    dbContext.Orders.Add(order);
+                }
+                dbContext.SaveChanges();
+            }
+        }
+
+8. 完成 When 的步驟，把剛剛查詢條件當作參數，傳給 target.Query()。回傳的結果則存到 ScenarioContext.Current 中，供 Then 檢查。
+        [When(@"呼叫Query方法")]
+        public void When呼叫Query方法()
+        {
+            var condition = ScenarioContext.Current.Get<OrderQueryCondition>();
+
+            //service回傳的，不一定需要是 dbContext 中 EF 產生的 model 型別
+            IEnumerable<MyOrder> actual = this.target.Query(condition);
+
+            ScenarioContext.Current.Set<IEnumerable<MyOrder>>(actual);
+        }	
+
+
+9. 針對 Then 的步驟：[Then(@"查詢結果應為")]，我們要比較，target.Query() 回傳的結果，是否符合 scenario 上 table 的預期
+。
+這邊使用到另外一個 extension method: table.CompareToSet<T>(actual);
+透過這個方法，可以直接把 scenario 上的 table，轉成 IEnumerable<T> ，然後跟 actual 直接比較。當有發生錯誤時，測試總管中該測試案例的輸出，會有很詳細的比較結果。
+
+        [Then(@"查詢結果應為")]
+        public void Then查詢結果應為(Table table)
+        {
+            var actual = ScenarioContext.Current.Get<IEnumerable<MyOrder>>();
+
+            table.CompareToSet<MyOrder>(actual);
+        }		
+		
+10. 完成steps後，執行測試，就會得到第一個紅燈。接著只要把 OrderService.Query() 的程式碼註解還原即可。
+    public class OrderService
+    {
+
+        private MyLibNorthwind dbContext;
+
+        public IEnumerable<MyOrder> Query(OrderQueryCondition condition)
+        {
+            //throw new NotImplementedException();
+            using (dbContext = new MyLibNorthwind())
+            {
+                var orders = dbContext.Orders.Where(x => x.CustomerID == condition.CustomerId);
+
+                if (condition.OrderDateStart != null)
+                {
+                    orders = orders.Where(x => x.OrderDate >= condition.OrderDateStart);
+                }
+
+                if (condition.OrderDateEnd != null)
+                {
+                    orders = orders.Where(x => x.OrderDate <= condition.OrderDateEnd);
+                }
+
+                return orders.Select(x => new MyOrder
+                    {
+                        CustomerID = x.CustomerID.Trim(),
+                        OrderDate = x.OrderDate,
+                        ShipCity = x.ShipCity
+                    }).ToList();
+            }
+        }
+    }
+
+11. 建議同學把 Scenario 上，Then 的table內容改一下，跑一下紅燈出來，然後看一下輸出結果，就會看到 specflow 會跟你說集合裡究竟是哪裡不一樣。	

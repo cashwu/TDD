@@ -1,0 +1,10 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\bin\Debug\PartimeSalaryWithTdd.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\bin\Debug\PartimeSalaryWithTdd.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\obj\Debug\PartimeSalaryWithTdd.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\obj\Debug\PartimeSalaryWithTdd.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\obj\Debug\PartimeSalaryWithTdd.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\bin\Debug\PartimeSalaryWithTdd.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\bin\Debug\PartimeSalaryWithTdd.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\obj\Debug\PartimeSalaryWithTdd.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\obj\Debug\PartimeSalaryWithTdd.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab7-PartimeSalaryWithTdd\PartimeSalaryWithTdd\obj\Debug\PartimeSalaryWithTdd.pdb

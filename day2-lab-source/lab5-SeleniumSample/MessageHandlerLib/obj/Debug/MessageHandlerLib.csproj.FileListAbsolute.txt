@@ -1,0 +1,9 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\obj\Debug\MessageHandlerLib.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\bin\Debug\MessageHandlerLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\bin\Debug\MessageHandlerLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\bin\Debug\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\obj\Debug\MessageHandlerLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\MessageHandlerLib\obj\Debug\MessageHandlerLib.pdb

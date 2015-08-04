@@ -1,0 +1,5 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\bin\Debug\CalculatorSample.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\bin\Debug\CalculatorSample.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\obj\Debug\CalculatorSample.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\obj\Debug\CalculatorSample.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSample\obj\Debug\CalculatorSample.pdb

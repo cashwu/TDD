@@ -1,0 +1,10 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\App.Config
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\MyLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\MyLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\EntityFramework.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\EntityFramework.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\obj\Debug\MyLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab11-SpecFlowWithEf\MyLib\obj\Debug\MyLib.pdb

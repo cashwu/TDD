@@ -1,0 +1,15 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab2-MsTestIntroduction\MsTestIntroduction\bin\Debug\MsTestIntroduction.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab2-MsTestIntroduction\MsTestIntroduction\bin\Debug\MsTestIntroduction.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\bin\Debug\MsTestIntroduction.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\bin\Debug\MsTestIntroduction.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\bin\Debug\MsTestIntroduction.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\bin\Debug\MsTestIntroduction.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-solution\lab2-MsTestIntroduction\MsTestIntroduction\obj\Debug\MsTestIntroduction.pdb

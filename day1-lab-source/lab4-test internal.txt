@@ -1,0 +1,4 @@
+測試Internal的方式
+
+// Step1: 打開 InternalLib 中的 AssemblyInfo.cs
+// Step2: 加上[assembly: InternalsVisibleTo("InternalLibTests")]

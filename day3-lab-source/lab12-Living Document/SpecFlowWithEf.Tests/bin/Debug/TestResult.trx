@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="414dea74-527a-4e70-b08a-313a2de72b0e" name="joeychen@WANTALMOST-V7 2014-08-29 01:26:46" runUser="Y\joeychen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="3b83680a-3831-4052-be20-b1c890eff1ed">
+    <Deployment userDeploymentRoot="C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab12-Living Document\SpecFlowWithEf.Tests\bin\Debug" useDefaultDeploymentRoot="false" runDeploymentRoot="joeychen_WANTALMOST-V7 2014-08-29 01_26_46" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-08-29T01:26:46.2862182+08:00" queuing="2014-08-29T01:26:46.8137958+08:00" start="2014-08-29T01:26:46.9506862+08:00" finish="2014-08-29T01:26:51.2302598+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="依據姓名訂單日期起的條件查出顧客的訂單" storage="specflowwithef.tests.dll" id="7727d00b-03d7-8d31-7cf1-7a57390b24f6">
+      <Description>依據姓名、訂單日期起的條件，查出顧客的訂單</Description>
+      <Execution id="e3ab5cee-9a48-4e53-aed2-6ef44979a51c" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>OrderQuery</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/joeychen/Dropbox/skill tree 課程/day2-lab-source/lab12-Living Document/SpecFlowWithEf.Tests/bin/Debug/SpecFlowWithEf.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SpecFlowWithEf.Tests.OrderQueryFeature, SpecFlowWithEf.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="依據姓名訂單日期起的條件查出顧客的訂單" />
+    </UnitTest>
+    <UnitTest name="依據姓名訂單日期迄的條件查出顧客的訂單" storage="specflowwithef.tests.dll" id="f98bcf75-d564-d161-155a-ebc20121446b">
+      <Description>依據姓名、訂單日期迄的條件，查出顧客的訂單</Description>
+      <Execution id="0313a5b2-9c3f-4824-8cfe-342ac4dc8f25" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>OrderQuery</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/joeychen/Dropbox/skill tree 課程/day2-lab-source/lab12-Living Document/SpecFlowWithEf.Tests/bin/Debug/SpecFlowWithEf.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SpecFlowWithEf.Tests.OrderQueryFeature, SpecFlowWithEf.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="依據姓名訂單日期迄的條件查出顧客的訂單" />
+    </UnitTest>
+    <UnitTest name="依據姓名訂單日期起訂單日期迄條件查出顧客的訂單" storage="specflowwithef.tests.dll" id="03733256-de9c-38f2-5c45-a56dab9bee3a">
+      <Description>依據姓名、訂單日期起、訂單日期迄條件，查出顧客的訂單</Description>
+      <Execution id="1e26f8d0-e891-4cdc-b3d0-900277ca0513" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>OrderQuery</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Users/joeychen/Dropbox/skill tree 課程/day2-lab-source/lab12-Living Document/SpecFlowWithEf.Tests/bin/Debug/SpecFlowWithEf.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SpecFlowWithEf.Tests.OrderQueryFeature, SpecFlowWithEf.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="依據姓名訂單日期起訂單日期迄條件查出顧客的訂單" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f98bcf75-d564-d161-155a-ebc20121446b" executionId="0313a5b2-9c3f-4824-8cfe-342ac4dc8f25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7727d00b-03d7-8d31-7cf1-7a57390b24f6" executionId="e3ab5cee-9a48-4e53-aed2-6ef44979a51c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="03733256-de9c-38f2-5c45-a56dab9bee3a" executionId="1e26f8d0-e891-4cdc-b3d0-900277ca0513" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0313a5b2-9c3f-4824-8cfe-342ac4dc8f25" testId="f98bcf75-d564-d161-155a-ebc20121446b" testName="依據姓名訂單日期迄的條件查出顧客的訂單" computerName="WANTALMOST-V7" duration="00:00:02.1490512" startTime="2014-08-29T01:26:47.0036438+08:00" endTime="2014-08-29T01:26:49.5915718+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0313a5b2-9c3f-4824-8cfe-342ac4dc8f25">
+      <Output>
+        <StdOut>Given 查詢條件為
+  --- table step argument ---
+  | CustomerId | OrderDateStart | OrderDateEnd |
+  | Joey       |                | 2014-07-04   |
+-&gt; done: OrderQuerySteps.Given查詢條件為(&lt;table&gt;) (0.0s)
+And 預計Customers資料應有
+  --- table step argument ---
+  | CustomerID | CompanyName |
+  | Joey       | SkillTree   |
+-&gt; done: OrderQuerySteps.Given預計Customers資料應有(&lt;table&gt;) (0.6s)
+And 預計Orders資料應有
+  --- table step argument ---
+  | CustomerID | OrderDate  | ShipCity |
+  | Joey       | 2014-07-02 | Taipei   |
+  | Joey       | 2014-07-03 | Taipei   |
+  | Joey       | 2014-07-04 | Changhua |
+  | Joey       | 2014-07-05 | Changhua |
+  | Joey       | 2014-07-08 | Changhua |
+-&gt; done: OrderQuerySteps.Given預計Orders資料應有(&lt;table&gt;) (0.0s)
+When 呼叫Query方法
+-&gt; done: OrderQuerySteps.When呼叫Query方法() (0.5s)
+Then 查詢結果應為
+  --- table step argument ---
+  | CustomerID | OrderDate  | ShipCity |
+  | Joey       | 2014-07-02 | Taipei   |
+  | Joey       | 2014-07-03 | Taipei   |
+  | Joey       | 2014-07-04 | Changhua |
+-&gt; done: OrderQuerySteps.Then查詢結果應為(&lt;table&gt;) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e3ab5cee-9a48-4e53-aed2-6ef44979a51c" testId="7727d00b-03d7-8d31-7cf1-7a57390b24f6" testName="依據姓名訂單日期起的條件查出顧客的訂單" computerName="WANTALMOST-V7" duration="00:00:00.0363800" startTime="2014-08-29T01:26:49.5935702+08:00" endTime="2014-08-29T01:26:49.6345374+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e3ab5cee-9a48-4e53-aed2-6ef44979a51c">
+      <Output>
+        <StdOut>Given 查詢條件為
+  --- table step argument ---
+  | CustomerId | OrderDateStart | OrderDateEnd |
+  | Joey       | 2014-07-03     |              |
+-&gt; done: OrderQuerySteps.Given查詢條件為(&lt;table&gt;) (0.0s)
+And 預計Customers資料應有
+  --- table step argument ---
+  | CustomerID | CompanyName |
+  | Joey       | SkillTree   |
+-&gt; done: OrderQuerySteps.Given預計Customers資料應有(&lt;table&gt;) (0.0s)
+And 預計Orders資料應有
+  --- table step argument ---
+  | CustomerID | OrderDate  | ShipCity |
+  | Joey       | 2014-07-02 | Taipei   |
+  | Joey       | 2014-07-03 | Taipei   |
+  | Joey       | 2014-07-04 | Changhua |
+  | Joey       | 2014-07-05 | Changhua |
+  | Joey       | 2014-07-08 | Changhua |
+-&gt; done: OrderQuerySteps.Given預計Orders資料應有(&lt;table&gt;) (0.0s)
+When 呼叫Query方法
+-&gt; done: OrderQuerySteps.When呼叫Query方法() (0.0s)
+Then 查詢結果應為
+  --- table step argument ---
+  | CustomerID | OrderDate  | ShipCity |
+  | Joey       | 2014-07-03 | Taipei   |
+  | Joey       | 2014-07-04 | Changhua |
+  | Joey       | 2014-07-05 | Changhua |
+  | Joey       | 2014-07-08 | Changhua |
+-&gt; done: OrderQuerySteps.Then查詢結果應為(&lt;table&gt;) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1e26f8d0-e891-4cdc-b3d0-900277ca0513" testId="03733256-de9c-38f2-5c45-a56dab9bee3a" testName="依據姓名訂單日期起訂單日期迄條件查出顧客的訂單" computerName="WANTALMOST-V7" duration="00:00:00.0288265" startTime="2014-08-29T01:26:49.6365358+08:00" endTime="2014-08-29T01:26:49.6675110+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e26f8d0-e891-4cdc-b3d0-900277ca0513">
+      <Output>
+        <StdOut>Given 查詢條件為
+  --- table step argument ---
+  | CustomerId | OrderDateStart | OrderDateEnd |
+  | Joey       | 2014-07-03     | 2014-07-07   |
+-&gt; done: OrderQuerySteps.Given查詢條件為(&lt;table&gt;) (0.0s)
+And 預計Customers資料應有
+  --- table step argument ---
+  | CustomerID | CompanyName |
+  | Joey       | SkillTree   |
+-&gt; done: OrderQuerySteps.Given預計Customers資料應有(&lt;table&gt;) (0.0s)
+And 預計Orders資料應有
+  --- table step argument ---
+  | CustomerID | OrderDate  | ShipCity |
+  | Joey       | 2014-07-02 | Taipei   |
+  | Joey       | 2014-07-03 | Taipei   |
+  | Joey       | 2014-07-04 | Changhua |
+  | Joey       | 2014-07-05 | Changhua |
+  | Joey       | 2014-07-08 | Changhua |
+-&gt; done: OrderQuerySteps.Given預計Orders資料應有(&lt;table&gt;) (0.0s)
+When 呼叫Query方法
+-&gt; done: OrderQuerySteps.When呼叫Query方法() (0.0s)
+Then 查詢結果應為
+  --- table step argument ---
+  | CustomerID | OrderDate  | ShipCity |
+  | Joey       | 2014-07-03 | Taipei   |
+  | Joey       | 2014-07-04 | Changhua |
+  | Joey       | 2014-07-05 | Changhua |
+-&gt; done: OrderQuerySteps.Then查詢結果應為(&lt;table&gt;) (0.0s)</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

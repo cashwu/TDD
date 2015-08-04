@@ -1,0 +1,22 @@
+            // 我打開 Login 的網頁 => Open
+            // 在 id 裡面輸入 joey => Enter, In
+            // 在 password 裡面輸入 1234 => Enter, In
+            // 按下登入 => Click
+            // 期望應該導到首頁   => Assert, Url    
+
+            I.Open(baseUrl + "login")
+                .Enter("joey").In("#id")
+                .Enter("1234").In("#password")
+                .Click("input[type=\"submit\"]")
+                .Assert.Url(baseUrl);
+
+            // 我打開 Login 的網頁 => Open
+            // 在 id 裡面輸入 joey => Enter, In
+            // 在 password 裡面輸入 abc => Enter, In
+            // 按下登入 => Click
+            // 期望畫面應該出現 "帳號或密碼有誤" 的訊息 => Assert, Text, In
+            I.Open(baseUrl + "login")
+                .Enter("joey").In("#id")
+                .Enter("abc").In("#password")
+                .Click("input[type=\"submit\"]")
+                .Assert.Text("帳號或密碼有誤").In("#message");

@@ -1,0 +1,13 @@
+lab3-v4-AuthenticationServiceTests - mock
+            
+// step 1: 建立 mock object, 跟建立 stub 一樣
+// ILog log = Substitute.For<ILog>();
+
+// step 2: 呼叫欲測試的方法
+
+// step 3: 實際驗證是否符合預期。
+// log.Received(1).Save(Arg.Is<string>(x => x.Contains("login failed") && x.Contains("Joey")));
+// log.Received(1).Save("account:Joey try to login failed"); 
+// Received(1) 可以簡化成 Received()
+// 若只需要確定有被呼叫的次數，而不管參數內容，可以使用 log.ReceivedWithAnyArgs()
+// 也可以使用 log.DidNotReceive() 來驗證，不應該被呼叫的情境

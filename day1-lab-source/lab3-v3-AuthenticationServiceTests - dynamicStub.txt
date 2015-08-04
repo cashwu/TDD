@@ -1,0 +1,15 @@
+lab3-v3-AuthenticationServiceTests - dynamicStub
+
+// topic: 使用 NSubstitute 的 stub
+
+// step1: using NSubstitute;
+
+// step2: 透過 Substitute.For<T> 動態產生stub物件
+// 例如: IProfile stubProfile = Substitute.For<IProfile>();
+
+// step3: 設定當呼叫 stub 物件的"哪個方法"，傳入"什麼參數"時，要回傳什麼？
+// 例如: stubProfile.GetPassword("Joey").Returns("91");
+ 
+// step5: 將兩個動態產生的 stub 物件傳入 AuthenticationService() 中
+
+// step6: 執行測試

@@ -1,0 +1,30 @@
+	LoginTest, 將Selenium IDE腳本轉成 MsTest/Selenium WebDriver/C# 的測試程式
+	
+    // Step1: 打開 \lab5-SeleniumSample\SeleniumIdeScript\SeleniumWebDriverWithMsTestScript.txt
+    
+    // Step2: 打開 Selenium IDE > Options > Options
+    // 選擇 Format, 按下 Add, Name（可隨意）輸入：ForSkillTree
+    // 將 Step1 裡面的內容，取代 ForSkillTree 裡面原本的 script，按下OK
+    
+    // Step3: 在 Selenium IDE 上，選擇你要匯出的 test case 後，選 File > Export Test Case As ...
+    // 選擇剛剛新增的 Format: ForSkillTree ，另存成：LoginFailedExported
+ 
+    // Step4: 將剛剛匯出的 LoginFailedExported.cs 內容，貼到這一個測試程式中
+    // Step5: 確定站台活著，執行測試。
+ 
+    // Step6: 把 FirefoxDriver 改成 ChromeDriver, 就可以用 Chrome 來跑 Web 測試
+    // IE 也是一樣。要跑不同瀏覽器的 Selenium.WebDriver, 記得在 NuGet 上安裝對應 browser 的 WebDriver
+	
+提醒：
+namespace的部分要引入
+using OpenQA.Selenium;
+using OpenQA.Selenium.Firefox;
+using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.IE;
+	
+初始化不同瀏覽器 webdriver 	範例如下：（IE比較吃不同版本與本機環境設定）
+driver = new FirefoxDriver();
+//driver = new ChromeDriver();
+//var option = new InternetExplorerOptions();
+//option.IntroduceInstabilityByIgnoringProtectedModeSettings = true;
+//driver = new InternetExplorerDriver(option);

@@ -1,0 +1,10 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab6-RefactoringWebStie\LogisticLib\bin\Debug\LogisticLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab6-RefactoringWebStie\LogisticLib\bin\Debug\LogisticLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab6-RefactoringWebStie\LogisticLib\obj\Debug\LogisticLib.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab6-RefactoringWebStie\LogisticLib\obj\Debug\LogisticLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-solution\lab6-RefactoringWebStie\LogisticLib\obj\Debug\LogisticLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab10-CalculateFeeWithSpecflow\LogisticLib\bin\Debug\LogisticLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab10-CalculateFeeWithSpecflow\LogisticLib\bin\Debug\LogisticLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab10-CalculateFeeWithSpecflow\LogisticLib\obj\Debug\LogisticLib.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab10-CalculateFeeWithSpecflow\LogisticLib\obj\Debug\LogisticLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab10-CalculateFeeWithSpecflow\LogisticLib\obj\Debug\LogisticLib.pdb

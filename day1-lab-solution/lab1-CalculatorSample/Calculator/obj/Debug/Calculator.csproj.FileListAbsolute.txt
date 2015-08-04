@@ -1,0 +1,5 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab1-CalculatorSample\Calculator\bin\Debug\Calculator.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab1-CalculatorSample\Calculator\bin\Debug\Calculator.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab1-CalculatorSample\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab1-CalculatorSample\Calculator\obj\Debug\Calculator.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab1-CalculatorSample\Calculator\obj\Debug\Calculator.pdb

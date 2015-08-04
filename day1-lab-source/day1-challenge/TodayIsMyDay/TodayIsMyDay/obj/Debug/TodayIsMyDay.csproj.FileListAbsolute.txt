@@ -1,0 +1,9 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\bin\Debug\TodayIsMyDay.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\bin\Debug\TodayIsMyDay.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\obj\Debug\TodayIsMyDay.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\obj\Debug\TodayIsMyDay.pdb
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\bin\Debug\TodayIsMyDay.dll
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\bin\Debug\TodayIsMyDay.pdb
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\obj\Debug\TodayIsMyDay.csprojResolveAssemblyReference.cache
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\obj\Debug\TodayIsMyDay.dll
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDay\obj\Debug\TodayIsMyDay.pdb

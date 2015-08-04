@@ -1,0 +1,78 @@
+使用 Specflow 改寫原本的測試案例
+
+1. 新增一個ParttimeSalary.Feature檔
+Feature: ParttimeSalary
+	In order to 節省計算時薪薪資的時間
+	As a 會計人員
+	I want to 依據上班時間與時薪核薪方式，自動算出薪資總額
+	
+2. 把測試程式中的 Scenario 貼到 feature 上
+Scenario: 沒有加班，正常上班8小時，時薪100乘以8，薪資應為800
+Given 正常上班一小時薪資為 100
+And 上班時間時間為 "2014/8/30 08:00:00"
+And 下班時間為 "2014/8/30 17:00:00"
+When 呼叫CalculateSalary方法
+Then 薪資計算結果應為 800
+
+3. 產生 scenario 的 step definitions
+4. 將SalaryCardTests.cs測試程式中的內容，填入 step 裡面
+
+    [Binding]
+    public class ParttimeSalarySteps
+    {
+        //var target = new SalaryCard();
+        //target.HourlySalary = 100;
+        //target.StartTime = new DateTime(2014, 8, 30, 8, 0, 0);
+        //target.EndTime = new DateTime(2014, 8, 30, 17, 0, 0);
+
+        ////act
+        //var actual = target.CalculateSalary();
+
+        ////assert
+        //var expected = 800;
+        //Assert.AreEqual(expected, actual);
+        private SalaryCard target;
+
+        [BeforeScenario]
+        public void BeforeScenario()
+        {
+            this.target = new SalaryCard();
+        }
+
+        [Given(@"正常上班一小時薪資為 (.*)")]
+        public void Given正常上班一小時薪資為(int hourlySalary)
+        {
+            target.HourlySalary = hourlySalary;
+        }
+
+        [Given(@"上班時間時間為 ""(.*)""")]
+        public void Given上班時間時間為(DateTime startTime)
+        {
+            target.StartTime = startTime;
+
+        }
+
+        [Given(@"下班時間為 ""(.*)""")]
+        public void Given下班時間為(DateTime endTime)
+        {
+            target.EndTime = endTime;
+        }
+
+        [When(@"呼叫CalculateSalary方法")]
+        public void When呼叫CalculateSalary方法()
+        {
+            var actual = target.CalculateSalary();
+            ScenarioContext.Current.Set<double>(actual);
+        }
+
+        [Then(@"薪資計算結果應為 (.*)")]
+        public void Then薪資計算結果應為(double expected)
+        {
+            var actual = ScenarioContext.Current.Get<double>();
+            Assert.AreEqual(expected, actual);
+        }
+    }
+	
+5. 執行 scenario，應得到綠燈
+
+6. 其他 scenario 依此類推	

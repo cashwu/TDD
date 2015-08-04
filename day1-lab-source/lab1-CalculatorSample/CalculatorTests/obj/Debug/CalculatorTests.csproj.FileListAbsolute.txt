@@ -1,0 +1,7 @@
+D:\Training\TDD_SESSION3\day1-lab-source\lab1-CalculatorSample\CalculatorTests\bin\Debug\CalculatorTests.dll
+D:\Training\TDD_SESSION3\day1-lab-source\lab1-CalculatorSample\CalculatorTests\bin\Debug\CalculatorTests.pdb
+D:\Training\TDD_SESSION3\day1-lab-source\lab1-CalculatorSample\CalculatorTests\bin\Debug\Calculator.dll
+D:\Training\TDD_SESSION3\day1-lab-source\lab1-CalculatorSample\CalculatorTests\bin\Debug\Calculator.pdb
+D:\Training\TDD_SESSION3\day1-lab-source\lab1-CalculatorSample\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+D:\Training\TDD_SESSION3\day1-lab-source\lab1-CalculatorSample\CalculatorTests\obj\Debug\CalculatorTests.dll
+D:\Training\TDD_SESSION3\day1-lab-source\lab1-CalculatorSample\CalculatorTests\obj\Debug\CalculatorTests.pdb

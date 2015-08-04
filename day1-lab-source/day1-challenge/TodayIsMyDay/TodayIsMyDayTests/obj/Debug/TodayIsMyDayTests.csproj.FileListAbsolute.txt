@@ -1,0 +1,21 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDayTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDayTests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDay.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDay.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第二梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDayTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDayTests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDay.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDay.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.pdb
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.csprojResolveAssemblyReference.cache
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.dll
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDayTests.dll
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDayTests.pdb
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDay.dll
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\bin\Debug\TodayIsMyDay.pdb
+D:\Training\TDD_SESSION3\day1-lab-source\day1-challenge\TodayIsMyDay\TodayIsMyDayTests\obj\Debug\TodayIsMyDayTests.pdb

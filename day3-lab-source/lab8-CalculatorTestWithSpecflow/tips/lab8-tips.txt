@@ -1,0 +1,78 @@
+使用 Specflow 描述需求，撰寫測試程式，得到第一個紅燈
+
+1. 打開 App.Config，在<specflow>的區段中，加入：<unitTestProvider name="MsTest"></unitTestProvider>
+
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <section name="specFlow" type="TechTalk.SpecFlow.Configuration.ConfigurationSectionHandler, TechTalk.SpecFlow" />
+  </configSections>
+  <specFlow>
+    <!-- For additional details on SpecFlow configuration options see http://go.specflow.org/doc-config -->
+      <unitTestProvider name="MsTest"></unitTestProvider>
+  </specFlow>
+</configuration>
+
+2. 新增一個 MyCalculator.feature
+
+3. 修改 Add two numbers 的 Scenario，改用中文以及一般使用計算機的習慣來描述 scenario 
+Scenario: Add two numbers
+	Given 在第一個輸入項輸入 50
+	And 在第二個輸入項輸入 70
+	When 按下 Add 按鈕
+	Then 螢幕上的結果應為 120
+
+接著在 scenario 上按滑鼠右鍵，選擇 Generate Step Definitions，路徑記得指到測試專案中
+
+4. 完成 MyCalculator 的 Steps 定義，也就是在裡面寫 3A 的測試程式
+(1) 宣告一個 private field 來放 target，也就是 MyCalculator
+private MyCalculator target;
+(2) 在 MyCalculator 下，按產生>產生新類型>class> 專案選擇：CalculatorSample > 建立新檔案
+(3) 建立一個 BeforeScenario 的 event hook, 在每一個 scenario 開始之前，初始化 target
+        [BeforeScenario]
+        public void BeforeScenario()
+        {
+            this.target = new MyCalculator();
+        }
+(4) 將 Given 的第一步[Given(@"在第一個輸入項輸入 (.*)")]完成。
+透過ScenarioContext.Current.Set<t> 將 first 存在 ScenarioContext 中，等著後面給 When 使用
+        [Given(@"在第一個輸入項輸入 (.*)")]
+        public void Given在第一個輸入項輸入(int first)
+        {
+            ScenarioContext.Current.Set<int>(first, "first");
+        }
+
+Given 的第二步[Given(@"在第二個輸入項輸入 (.*)")] 就跟第一步一樣。
+        [Given(@"在第二個輸入項輸入 (.*)")]
+        public void Given在第二個輸入項輸入(int second)
+        {
+            ScenarioContext.Current.Set<int>(second, "second");
+        }
+		
+(5) 將 When 的 step [When(@"按下 Add 按鈕")]完成。先把 Given 步驟上的 first 與 second 取出來，傳入 target.Add() 方法中。
+
+        [When(@"按下 Add 按鈕")]
+        public void When按下Add按鈕()
+        {
+            var first = ScenarioContext.Current.Get<int>("first");
+            var second = ScenarioContext.Current.Get<int>("second");
+
+            var actual = this.target.Add(first, second);
+            ScenarioContext.Current.Set<int>(actual, "result");
+        }
+        
+
+(6) 在target.Add() 方法下按「產生 > xxx 方法Stub」，接著在 Add() 移至定義，修改其回傳型別為 int。
+（也可以在宣告 actual 時，直接用 int 宣告，而不是 var, 這樣可以省掉上面移至定義並修改回傳型別的動作）
+
+(7) 將 Then 的 step [Then(@"螢幕上的結果應為 (.*)")]完成。取得剛剛的 actual 結果，驗證與 scenario 上的 expected 是否吻合。
+        [Then(@"螢幕上的結果應為 (.*)")]
+        public void Then螢幕上的結果應為(int expected)
+        {
+            var actual = ScenarioContext.Current.Get<int>("result");
+            Assert.AreEqual(expected, actual);
+        }
+
+(8) 回到 feature 上的 add two numbers scenario 上，按下滑鼠右鍵 > Run Specflow Scenarios，應該得到一個紅燈。(TDD的第一個紅燈)	
+
+這時 production code 的殼已經建立完畢，class name, function signature, parameter name 都是從 scenario/需求 來設計的

@@ -1,0 +1,41 @@
+Visual Studio [工具]>[外部工具]>[加入]
+
+標題：scenario with testing report
+命令：C:\tool\ScenarioTestReportGenerator\CreateSpecFlowReportFromTrx.bat
+引數：$(ProjectDir)$(ProjectFileName) $(TargetName)$(TargetExt)
+初始目錄：$(BinDir)
+
+標題：scenario report with HTML
+命令：C:\tool\ScenarioGenerator\generate scenario document - html.bat
+引數：$(ProjectDir) $(BinDir)\ScenarioReport HTML
+
+標題：scenario report with Word
+命令：C:\tool\ScenarioGenerator\generate scenario document - word.bat
+引數：$(ProjectDir) $(BinDir)\ScenarioReport word
+
+標題：steps report
+命令：C:\tool\ScenarioTestReportGenerator\CreateSpecFlowReportFromTrx - step.bat
+引數：$(ProjectDir)$(ProjectFileName)
+初始目錄：$(BinDir)
+
+--
+個人環境設定注意事項：
+1. MsTest.exe 位置：
+檔案：C:\tool\ScenarioTestReportGenerator\CreateSpecFlowReportFromTrx.bat
+待修改："%ProgramFiles(x86)%\Microsoft Visual Studio 12.0\Common7\IDE\mstest.exe"
+請改成你Visual Studio安裝的路徑位置，VS2013是Microsoft Visual Studio 12.0，VS2012是Microsoft Visual Studio 11.0
+
+2. Word版本
+檔案：C:\tool\ScenarioGenerator\generate scenario document - word.bat
+待修改："Microsoft Office Word 2007"
+請改成你的 word 版本
+
+3. browser 種類
+檔案1：C:\tool\ScenarioTestReportGenerator\CreateSpecFlowReportFromTrx.bat
+檔案2：C:\tool\ScenarioGenerator\generate scenario document - html.bat
+檔案3：C:\tool\ScenarioTestReportGenerator\CreateSpecFlowReportFromTrx - step.bat
+待修改："Chrome"
+請改成你想要驅動的 Browser, ex: "Firefox" 或 "iexplore"(IE請留意Url encode的問題)
+
+
+

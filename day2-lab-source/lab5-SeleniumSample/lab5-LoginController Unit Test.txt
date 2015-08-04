@@ -1,0 +1,21 @@
+        LoginController的單元測試
+		
+		[TestMethod]
+        public void TestIndex_Login_Success()
+        {
+            // Step1: arrange, new LoginController(), id=joey, password = 1234
+            // Step2: invoke target.Index(id, password)
+            // 將 Controller 回傳的 ActionResult 轉型成 RedirectToRouteResult
+            // Step3: 檢查 actual 的 actionName 是否為 Index, controllerName 是否為 Home
+            // controllerName: actual.RouteValues["Controller"]
+            // actionName: actual.RouteValues["Action"]
+        }
+        
+        [TestMethod]
+        public void TestIndex_Login_Failed()
+        {
+            // Step1: arrange, new LoginController(), id=joey, password = abc
+            // Step2: invoke target.Index(id, password)
+            // 將 Controller 回傳的 ActionResult 轉型成 ViewResult
+            // Step3: 檢查 actual 的 ViewBag.Message 是否為 "帳號或密碼有誤"
+        }

@@ -1,0 +1,7 @@
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab1-CalculatorSample\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab1-CalculatorSample\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab1-CalculatorSample\CalculatorTests\bin\Debug\Calculator.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab1-CalculatorSample\CalculatorTests\bin\Debug\Calculator.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab1-CalculatorSample\CalculatorTests\obj\Debug\CalculatorTests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab1-CalculatorSample\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab1-CalculatorSample\CalculatorTests\obj\Debug\CalculatorTests.pdb

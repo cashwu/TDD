@@ -1,0 +1,7 @@
+lab3-v2-AuthenticationServiceTests - manualStub
+
+//topic: 手刻 stub 物件
+//step 1: 在測試專案中，自訂兩個stub class，分別實作IProfileDao與IRsaTokenDao
+//step 2: 針對實作介面的方法，把預期傳入的參數，hard-code對應回傳的值
+//step 3: 修改測試程式，在new AuthenticationService() 的部分，傳入兩個 stub class 的 instance
+//step 4: 執行測試

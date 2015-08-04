@@ -1,0 +1,291 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\chromedriver.exe
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll.config
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Http.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\lab-source\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\chromedriver.exe
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll.config
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Owin.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.pdb
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Http.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Desktop\day1-lab-source\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\chromedriver.exe
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll.config
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\FluentAutomation.Core.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\FluentAutomation.SeleniumWebDriver.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Http.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day1-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\chromedriver.exe
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\IEDriverServer.exe
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll.config
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\FluentAutomation.Core.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\FluentAutomation.SeleniumWebDriver.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Owin.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\SeleniumSample.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\EntityFramework.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\MessageHandlerLib.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\bin\Debug\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-SeleniumSample\SeleniumSample.Tests\obj\Debug\SeleniumSample.Tests.pdb

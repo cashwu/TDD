@@ -1,0 +1,100 @@
+Specflow 的 Scenario Outline/Examples，可以將同樣 scenario 不同參數的測試案例放在一起，執行時仍視為多筆測試案例，有點類似 MsTest 的 Data-Driven Test
+
+1. 修改測試專案的 App.config
+加入 <unitTestProvider name="MsTest"></unitTestProvider>
+
+2. 加入一個CalculateFee.Feature，內容為
+Feature: CalculateFee
+	In order to 節省計算運費的時間
+	As a PM
+	I want to 依據商品資訊跟貨運商，算出對應運費
+
+3. 加入一個 Scenario Outline/Examples，用來描述三間貨運商與其對應的結果，並使用 table 形式來描述商品資訊
+Scenario Outline: 依據商品資訊，算出每一間貨運商需付出的運費
+	Given 在商品頁面
+	And 商品名稱輸入 book
+	And 重量輸入 10
+	And 長輸入 30
+	And 寬輸入 20
+	And 高輸入 10
+	And 物流商選擇 <shipper>
+	When 按下計算運費的按鈕
+	Then 物流商名稱應為 <shipperName>
+	And 運費結果應為 <fee>
+	Examples: 
+	| shipper   | shipperName | fee    |
+	| 黑貓      | 黑貓        | 200    |
+	| 新竹貨運  | 新竹貨運    | 254.16 |
+	| 郵局      | 郵局        | 180    |
+
+4. 產生 step definitions 檔案
+5. 將 CalculateFeeTests.cs 裡面的測試程式，搬到對應的 step 中
+(1) [TestInitialize] 改放在 [BeforeScenario]中，[TestCleanup] 改放在 [AfterScenario] 中
+(2) 在商品頁面
+driver.Navigate().GoToUrl(baseURL + "/Product.aspx");
+(3) 商品資訊：
+        [Given(@"商品名稱輸入 (.*)")]
+        public void Given商品名稱輸入(string name)
+        {
+            driver.FindElement(By.Id("MainContent_txtProductName")).Clear();
+            driver.FindElement(By.Id("MainContent_txtProductName")).SendKeys(name);
+        }
+
+        [Given(@"重量輸入 (.*)")]
+        public void Given重量輸入(int weight)
+        {
+            driver.FindElement(By.Id("MainContent_txtProductWeight")).Clear();
+            driver.FindElement(By.Id("MainContent_txtProductWeight")).SendKeys(weight.ToString());
+        }
+
+        [Given(@"長輸入 (.*)")]
+        public void Given長輸入(int length)
+        {
+            driver.FindElement(By.Id("MainContent_txtProductLength")).Clear();
+            driver.FindElement(By.Id("MainContent_txtProductLength")).SendKeys(length.ToString());
+        }
+
+        [Given(@"寬輸入 (.*)")]
+        public void Given寬輸入(int width)
+        {
+            driver.FindElement(By.Id("MainContent_txtProductWidth")).Clear();
+            driver.FindElement(By.Id("MainContent_txtProductWidth")).SendKeys(width.ToString());
+        }
+
+        [Given(@"高輸入 (.*)")]
+        public void Given高輸入(int height)
+        {
+            driver.FindElement(By.Id("MainContent_txtProductHeight")).Clear();
+            driver.FindElement(By.Id("MainContent_txtProductHeight")).SendKeys(height.ToString());
+        }
+
+(4) 選擇物流商
+        [Given(@"物流商選擇 (.*)")]
+        public void Given物流商選擇(string shipper)
+        {
+            new SelectElement(driver.FindElement(By.Id("MainContent_drpCompany"))).SelectByText(shipper);
+        }
+
+(5) 計算運費
+        [When(@"按下計算運費的按鈕")]
+        public void When按下計算運費的按鈕()
+        {
+            driver.FindElement(By.Id("MainContent_btnCalculate")).Click();
+        }
+
+(6) 驗證物流商名稱與運費	
+        [Then(@"物流商名稱應為 (.*)")]
+        public void Then物流商名稱應為(string shipperName)
+        {
+            Assert.AreEqual(shipperName, driver.FindElement(By.Id("MainContent_lblCompany")).Text);
+        }
+
+        [Then(@"運費結果應為 (.*)")]
+        public void Then運費結果應為(double fee)
+        {
+            Assert.AreEqual(fee.ToString(), driver.FindElement(By.Id("MainContent_lblCharge")).Text);
+        }
+
+(7) Run Scenario 會發現沒有執行測試，將測試總管的群組依據，改為「專案」，會發現使用 Scenario Outline/Examples 無法被正確放在專案中，而被視為「外部」。
+這時候直接針對 「外部」的分類，執行測試即可。 （Ctrl+R, A 執行所有測試時，仍會全部測試都執行，包含外部分類）
+

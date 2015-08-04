@@ -1,0 +1,17 @@
+scenario with testing report
+C:\tool\ScenarioTestReportGenerator\CreateSpecFlowReportFromTrx.bat
+$(ProjectDir)$(ProjectFileName) $(TargetName)$(TargetExt)
+$(BinDir)
+
+scenario report with HTML
+C:\tool\ScenarioGenerator\generate scenario document - html.bat
+$(ProjectDir) $(BinDir)\ScenarioReport HTML
+
+scenario report with Word
+C:\tool\ScenarioGenerator\generate scenario document - word.bat
+$(ProjectDir) $(BinDir)\ScenarioReport word
+
+steps report
+C:\tool\ScenarioTestReportGenerator\CreateSpecFlowReportFromTrx - step.bat
+$(ProjectDir)$(ProjectFileName)
+$(BinDir)

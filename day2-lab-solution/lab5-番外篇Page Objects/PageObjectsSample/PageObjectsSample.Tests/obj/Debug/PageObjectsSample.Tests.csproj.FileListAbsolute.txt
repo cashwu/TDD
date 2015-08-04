@@ -1,0 +1,26 @@
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\PageObjectsSample.Tests.dll
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\PageObjectsSample.Tests.pdb
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\FluentAutomation.Core.dll
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\FluentAutomation.SeleniumWebDriver.dll
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.dll
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.xml
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\obj\Debug\PageObjectsSample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\obj\Debug\PageObjectsSample.Tests.dll
+C:\Users\joeychen\Desktop\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\obj\Debug\PageObjectsSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\PageObjectsSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\PageObjectsSample.Tests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\FluentAutomation.Core.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\FluentAutomation.SeleniumWebDriver.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\obj\Debug\PageObjectsSample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\obj\Debug\PageObjectsSample.Tests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\第三梯\lab\day2-lab-solution\lab5-番外篇Page Objects\PageObjectsSample\PageObjectsSample.Tests\obj\Debug\PageObjectsSample.Tests.pdb

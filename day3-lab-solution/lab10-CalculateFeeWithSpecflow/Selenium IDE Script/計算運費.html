@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost:16207/" />
+<title>計算運費</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">計算運費</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/Product.aspx</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=MainContent_txtProductName</td>
+	<td>book</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=MainContent_txtProductWeight</td>
+	<td>10</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=MainContent_txtProductLength</td>
+	<td>30</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=MainContent_txtProductWidth</td>
+	<td>20</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=MainContent_txtProductHeight</td>
+	<td>10</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=MainContent_drpCompany</td>
+	<td>label=黑貓</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_btnCalculate</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=MainContent_lblCompany</td>
+	<td>黑貓</td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=MainContent_lblCharge</td>
+	<td>200</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=MainContent_drpCompany</td>
+	<td>label=新竹貨運</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_btnCalculate</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=MainContent_lblCompany</td>
+	<td>新竹貨運</td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=MainContent_lblCharge</td>
+	<td>254.16</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=MainContent_drpCompany</td>
+	<td>label=郵局</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_btnCalculate</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=MainContent_lblCompany</td>
+	<td>郵局</td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=MainContent_lblCharge</td>
+	<td>180</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

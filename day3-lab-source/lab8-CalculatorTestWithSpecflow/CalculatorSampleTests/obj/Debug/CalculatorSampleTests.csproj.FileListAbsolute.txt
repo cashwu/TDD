@@ -1,0 +1,9 @@
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.dll.config
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\bin\Debug\CalculatorSampleTests.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\bin\Debug\CalculatorSample.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\bin\Debug\CalculatorSample.pdb
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.csprojResolveAssemblyReference.cache
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.dll
+C:\Users\joeychen\Dropbox\skill tree 課程\day2-lab-source\lab8-CalculatorTestWithSpecflow\CalculatorSampleTests\obj\Debug\CalculatorSampleTests.pdb
